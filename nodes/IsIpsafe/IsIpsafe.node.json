@@ -1,0 +1,19 @@
+{
+	"node": "n8n-nodes-isipsafe.isIpsafe",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/isipsafe/n8n-nodes-isipsafe?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/isipsafe/n8n-nodes-isipsafe?tab=readme-ov-file"
+			}
+		]
+	},
+	"alias": ["IP reputation", "abuse", "blocklist", "threat intelligence", "firewall"]
+}
