@@ -95,6 +95,8 @@ Releases are published from GitHub Actions with npm provenance when a GitHub rel
 
 ## Links
 
+- Official Usage Page: [isipsafe.com/integrations/n8n](https://isipsafe.com/integrations/n8n)
+- npm Package: [npmjs.com/package/n8n-nodes-isipsafe](https://www.npmjs.com/package/n8n-nodes-isipsafe)
 - Website: [isipsafe.com](https://isipsafe.com)
 - API reference: [isipsafe.com/api](https://isipsafe.com/api)
 - Integrations: [isipsafe.com/integrations](https://isipsafe.com/integrations)
